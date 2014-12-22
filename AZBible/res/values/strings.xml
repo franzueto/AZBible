@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AZBible</string>
+    <string name="books">Libros</string>
+    <string name="chapters">Capítulos</string>
+    <string name="chapter">Capítulo</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="booksList">
+        <item>Génesis</item>
+        <item>Éxodo</item>
+        <item>Levítico</item>
+        <item>Números</item>
+        <item>Deuteronomio</item>
+    </string-array>
+    <string-array name="chaptersList">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="title_activity_chapters">AZBible</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lesson">LessonActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="reina_valera_1960">Reina Valera 1960</string>
+    <string name="nvi">NVI</string>
+
+</resources>
